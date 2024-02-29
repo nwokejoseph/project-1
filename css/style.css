@@ -17,3 +17,7 @@ h1 {
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
 }
+
+form {
+	padding-inline: 0.6rem;
+}

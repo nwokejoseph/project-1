@@ -19,5 +19,15 @@ h1 {
 }
 
 form {
-	padding-inline: 0.6rem;
+	padding-inline: 0.5rem;
+	border-radius: 5px;
+}
+
+fieldset {
+	border-width: 0.1rem;
+	border-radius: 10px;
+}
+
+label {
+	
 }

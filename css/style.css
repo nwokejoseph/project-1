@@ -29,5 +29,29 @@ fieldset {
 }
 
 label {
-	
+	display: block;
+	margin-bottom: 5px;
 }
+
+input {
+	padding: 0.6rem;
+	width: 100%;
+	border: none;
+	border-radius: 5px;
+	box-sizing: border-box;
+	margin-bottom: 0.8rem;
+	background-color: #cccccc;
+}
+
+button {
+	background-color: rgb(209, 189, 164);
+	padding: 0.5rem;
+	border-radius: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+button:hover {
+	background-color: grey;
+	color: white;
+}
+

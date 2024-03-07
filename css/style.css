@@ -20,6 +20,7 @@ h1 {
 
 legend {
 	text-align: center;
+	font-size: 1.2rem;
 }
 
 form {
@@ -38,6 +39,7 @@ fieldset {
 label {
 	display: block;
 	margin-bottom: 5px;
+	color: whitesmoke;
 }
 
 input {
@@ -80,7 +82,7 @@ img {
 }
 
 html {
-	background: url(https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2023/04/change-ps5-background-theme.jpg?w=1024);
+	background: url(https://wallpapers.com/images/hd/ps5-wireless-white-controller-16c3ha0mlhs7pp31.jpg);
 	background-size: cover;
 	height: 100%;
 	background-repeat: no-repeat;

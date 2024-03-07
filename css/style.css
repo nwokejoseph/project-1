@@ -47,7 +47,7 @@ input {
 	border-radius: 5px;
 	box-sizing: border-box;
 	margin-bottom: 0.8rem;
-	background-color: #cccccc;
+	
 }
 
 button {
@@ -65,3 +65,20 @@ button:hover {
 	background-color: #2980b9;
 }
 
+img {
+	float: left;
+	object-fit: none;
+	margin-right: 0%;
+	width: 0%;
+	visibility: collapse;
+}
+
+html {
+	background: url(https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2023/04/change-ps5-background-theme.jpg?w=1024);
+	background-size: cover;
+	height: 100%;
+	background-repeat: no-repeat;
+	margin-bottom: auto;
+	margin-top: auto;
+	padding: 0;
+}

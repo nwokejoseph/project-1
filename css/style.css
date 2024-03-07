@@ -13,7 +13,7 @@ h1 {
 	padding-bottom: 0.5rem;
 	font-size: 2.5rem;
 	font-weight: bold;
-	background: linear-gradient(#2F4F4F, #034694);
+	background-color: #005A9C;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
 }
@@ -21,6 +21,7 @@ h1 {
 legend {
 	text-align: center;
 	font-size: 1.2rem;
+	color: whitesmoke;
 }
 
 form {
@@ -82,7 +83,7 @@ img {
 }
 
 html {
-	background: url(https://wallpapers.com/images/hd/ps5-wireless-white-controller-16c3ha0mlhs7pp31.jpg);
+	background: url(https://www.electronicshub.org/wp-content/uploads/2022/08/ps5-black-screen.jpg);
 	background-size: cover;
 	height: 100%;
 	background-repeat: no-repeat;

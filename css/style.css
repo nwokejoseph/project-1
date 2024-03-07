@@ -90,3 +90,25 @@ html {
 	margin-top: auto;
 	padding: 0;
 }
+
+@media (min-width: 900px) {
+	form {
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+	h1 {
+		font-size: 75px;
+	}
+}
+
+@media (min-width: 1024px) {
+	html {
+		height: 0;
+		object-fit: none;
+		font-size: 16px;
+		padding: 20px;
+	}
+	form {
+		margin-left: 10%;
+		margin-right: 10%;
+	}

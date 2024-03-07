@@ -18,14 +18,21 @@ h1 {
 	background-clip: text;
 }
 
+legend {
+	text-align: center;
+}
+
 form {
 	padding-inline: 0.5rem;
 	border-radius: 5px;
+	padding: 1rem;
+	border-width: 0.1rem;
 }
 
 fieldset {
 	border-width: 0.1rem;
 	border-radius: 10px;
+
 }
 
 label {
@@ -44,13 +51,17 @@ input {
 }
 
 button {
-	background-color: rgb(209, 189, 164);
-	padding: 0.5rem;
-	border-radius: 5px;
+	background-color: #005A9C;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	border: none;
+	padding: 10px 20px;
+	transition: 0.3s;
+	color: white;
+	border-radius: 10px;
 }
 
 button:hover {
-	background-color: grey;
-	color: white;
+	background-color: #2980b9;
 }
 
